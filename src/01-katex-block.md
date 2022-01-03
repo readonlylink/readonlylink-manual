@@ -75,6 +75,32 @@ C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}
 }
 ```
 
+``` katex
+\ce{$K = \ce{\frac{[Hg^2+][Hg]}{[Hg2^2+]}}$}
+```
+
+``` plaintext
+\ce{$K = \ce{\frac{[Hg^2+][Hg]}{[Hg2^2+]}}$}
+```
+
+``` katex
+\ce{
+  Hg^2+ ->[I-]
+  $\underset{\mathrm{red}}{\ce{HgI2}}$
+  ->[I-]
+  $\underset{\mathrm{red}}{\ce{[Hg^{II}I4]^2-}}$
+}
+```
+
+``` plaintext
+\ce{
+  Hg^2+ ->[I-]
+  $\underset{\mathrm{red}}{\ce{HgI2}}$
+  ->[I-]
+  $\underset{\mathrm{red}}{\ce{[Hg^{II}I4]^2-}}$
+}
+```
+
 # References
 
 - [TeX](https://en.wikipedia.org/wiki/TeX)
