@@ -2,16 +2,26 @@
 title: Katex Block
 ---
 
+# Quadratic equation
+
+What is the root formula of the following general quadratic equation?
+
 ``` katex
-c = \pm\sqrt{a^2 + b^2}
+ax^2 + bx +c
 ```
 
+The root formula is:
+
 ``` katex
-% \f is defined as #1f(#2) using the macro
+-b \pm \sqrt{b^2 - 4ac} \over 2a
+```
 
-\gdef\f#1f(#2)
+## Source code of the above formulas
 
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
+```
+ax^2 + bx +c
+```
+
+```
+-b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
