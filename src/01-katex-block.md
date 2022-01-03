@@ -101,7 +101,7 @@ C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}
 }
 ```
 
-Please visit [*mhchem*'s manual]( https://mhchem.github.io/MathJax-mhchem) from more examples.
+Please visit [**mhchem**'s manual]( https://mhchem.github.io/MathJax-mhchem) from more examples.
 
 # References
 
