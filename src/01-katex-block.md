@@ -4,7 +4,7 @@ title: Katex Block
 
 To use `KatexBlock` extensions, name a code block with `katex`.
 
-# Quadratic Equation
+# Quadratic equation
 
 What is the root formula of the following general quadratic equation?
 
@@ -26,7 +26,7 @@ The root formula is:
 -b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
 
-# Chemical Equations
+# Chemical equations
 
 ``` katex
 \ce{CO2 + C -> 2 CO}
@@ -50,11 +50,35 @@ C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}
 
 ``` plaintext
 C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}
+```
+
+## Complex examples
+
+
+``` katex
+\ce{
+  Zn^2+
+  <=>[+ 2OH-][+ 2H+]
+  $\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$
+  <=>[+ 2OH-][+ 2H+]
+  $\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$
+}
+```
+
+``` plaintext
+\ce{
+  Zn^2+
+  <=>[+ 2OH-][+ 2H+]
+  $\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$
+  <=>[+ 2OH-][+ 2H+]
+  $\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$
+}
 ```
 
 # References
 
-- [KaTex](https://katex.org)
-  - [Supported Functions](https://katex.org/docs/supported.html)
 - [TeX](https://en.wikipedia.org/wiki/TeX)
   - [TeX Users Group](https://tug.org/index.html)
+- [KaTex](https://katex.org)
+  - [Supported Functions](https://katex.org/docs/supported.html)
+- [mhchem](https://mhchem.github.io/MathJax-mhchem) is a tool for writing beautiful chemical equations easily.
