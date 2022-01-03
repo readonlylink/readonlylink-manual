@@ -25,3 +25,10 @@ ax^2 + bx +c
 ``` plaintext
 -b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
+
+# References
+
+- [KaTex](https://katex.org)
+  - [Supported Functions](https://katex.org/docs/supported.html)
+- [TeX](https://en.wikipedia.org/wiki/TeX)
+  - [TeX Users Group](https://tug.org/index.html)
