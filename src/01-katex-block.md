@@ -4,7 +4,7 @@ title: Katex Block
 
 To use `KatexBlock` extensions, name a code block with `katex`.
 
-# Quadratic equation
+# Quadratic Equation
 
 What is the root formula of the following general quadratic equation?
 
@@ -26,7 +26,7 @@ The root formula is:
 -b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
 
-# Chemical Equations (ce)
+# Chemical Equations
 
 ``` katex
 \ce{CO2 + C -> 2 CO}
