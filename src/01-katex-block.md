@@ -18,10 +18,10 @@ The root formula is:
 
 ## Source code of the above formulas
 
-```
+``` plaintext
 ax^2 + bx +c
 ```
 
-```
+``` plaintext
 -b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
