@@ -2,6 +2,8 @@
 title: Katex Block
 ---
 
+To use `KatexBlock` extensions, name a code block with `katex`.
+
 # Quadratic equation
 
 What is the root formula of the following general quadratic equation?
@@ -16,7 +18,7 @@ The root formula is:
 -b \pm \sqrt{b^2 - 4ac} \over 2a
 ```
 
-## Source code of the above formulas
+## Source code
 
 ``` plaintext
 ax^2 + bx +c
