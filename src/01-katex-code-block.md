@@ -1,8 +1,9 @@
 ---
-title: Katex Block
+title: Katex Code Block
 ---
 
-To use `KatexBlock` extensions, name a code block with `katex`.
+To use **Katex Code Block** extensions,
+name a code block by `katex`.
 
 # Quadratic equation
 
