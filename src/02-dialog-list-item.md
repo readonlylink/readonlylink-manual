@@ -14,6 +14,17 @@ name a item by `dialog`, like the following:
   - Number is about counting.
 
     1, 2, 3, ...
+
+  - We should starting from 0.
+
+  - Ok,
+
+    0, 1, 2, 3, ...
+
+  - That's much better!
+
+  - What next?
+
 ```
 
 - [dialog]
@@ -23,3 +34,13 @@ name a item by `dialog`, like the following:
   - Number is about counting.
 
     1, 2, 3, ...
+
+  - We should starting from 0.
+
+  - Ok,
+
+    0, 1, 2, 3, ...
+
+  - That's much better!
+
+  - What next?
