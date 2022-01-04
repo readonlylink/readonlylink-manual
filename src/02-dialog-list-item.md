@@ -57,6 +57,6 @@ Multiple dialogs in the same document will share the same indexing.
 
   - 4, 5, 6, ...
 
-  - How many number are there?
+  - How many numbers are there?
 
   - Infinitely many!
