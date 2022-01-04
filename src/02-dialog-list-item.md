@@ -51,8 +51,6 @@ name a item by `dialog`, like the following:
 
 Multiple dialogs in the same document will share the same indexing.
 
-<br />
-
 - [dialog]
 
   - What's after 3?
