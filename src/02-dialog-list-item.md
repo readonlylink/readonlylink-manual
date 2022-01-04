@@ -23,7 +23,7 @@ name a item by `dialog`, like the following:
 
   - That's much better!
 
-  - What next?
+  - What's next?
 
 ```
 
@@ -43,4 +43,4 @@ name a item by `dialog`, like the following:
 
   - That's much better!
 
-  - What next?
+  - What's next?
