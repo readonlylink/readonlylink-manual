@@ -44,3 +44,15 @@ name a item by `dialog`, like the following:
   - That's much better!
 
   - What's next?
+
+Multiple dialogs in the same document will share the same indexing.
+
+- [dialog]
+
+  - What's after 3?
+
+  - 4, 5, 6, ...
+
+  - How many number are there?
+
+  - Infinitely many!
