@@ -9,17 +9,17 @@ name a item by `dialog`, like the following:
 ``` markdown
 - [dialog]
 
-  - 什么是数呢？
+  - What is number?
 
-  - 数就是数数。
+  - Number is about counting.
 
-    一、二、三、……
+    1, 2, 3, ...
 ```
 
 - [dialog]
 
-  - 什么是数呢？
+  - What is number?
 
-  - 数就是数数。
+  - Number is about counting.
 
-    一、二、三、……
+    1, 2, 3, ...
