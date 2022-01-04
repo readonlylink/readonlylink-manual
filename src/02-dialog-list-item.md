@@ -6,6 +6,8 @@ subtitle: Dan's Little Books style dialog
 To use **Dialog List Item** extensions,
 name a item by `dialog`, like the following:
 
+# Example dialog
+
 ``` plaintext
 - [dialog]
 
@@ -45,7 +47,11 @@ name a item by `dialog`, like the following:
 
   - What's next?
 
+# About Indexing
+
 Multiple dialogs in the same document will share the same indexing.
+
+<br />
 
 - [dialog]
 
