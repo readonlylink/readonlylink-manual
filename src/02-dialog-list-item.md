@@ -70,7 +70,7 @@ Multiple dialogs in the same document will share the same indexing.
   - A judgment is an attitude that a person takes towards expressions.
     When we come to know something, we are making a judgment.
 
-    - Thanks, Per Martin-L6f (1942-).
+    - Thanks, Per Martin-Löf (1942-).
 
 ``` plaintext
 - [dialog]
