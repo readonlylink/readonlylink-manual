@@ -8,6 +8,8 @@ newline: preserve
 
 # 例子
 
+注意，这篇文章在使用了 `newline: preserve`，以保证空行可以被渲染为空行。
+
 - [poem-vertical] 齊物論 · 莊子
 
   - 大知閑閑 小知閒閒
