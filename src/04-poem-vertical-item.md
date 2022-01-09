@@ -1,6 +1,7 @@
 ---
 title: Poem Vertical Item (for Chinese)
 subtitle: Chinese Poem Vertical Layout
+newline: preserve
 ---
 
 中文诗歌纵向排版。
