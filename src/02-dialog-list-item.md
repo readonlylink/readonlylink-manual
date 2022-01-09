@@ -47,7 +47,7 @@ name a item by `dialog`, like the following:
 
 ```
 
-# About Indexing
+# About indexing
 
 Multiple dialogs in the same document will share the same indexing.
 
@@ -84,7 +84,7 @@ Another one, from "The Little Typer":
     Evaluation such languages finds an expression,
     not some other kind of thing.
 
-## Multiple Reminder Entries
+## Multiple reminder entries
 
 - [reminder] Before type theory
 
