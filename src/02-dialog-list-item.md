@@ -6,7 +6,7 @@ subtitle: Dan's Little Books style dialog
 To use **Dialog List Item** extensions,
 name a item by `dialog`, like the following:
 
-# Example dialog
+# Simple dialog
 
 - [dialog]
 
@@ -60,6 +60,28 @@ Multiple dialogs in the same document will share the same indexing.
   - How many numbers are there?
 
   - Infinitely many!
+
+# Dialog with notes
+
+- [dialog]
+
+  - What is the point of a judgment?
+
+  - A judgment is an attitude that a person takes towards expressions.
+    When we come to know something, we are making a judgment.
+
+    - Thanks, Per Martin-L6f (1942-).
+
+``` plaintext
+- [dialog]
+
+  - What is the point of a judgment?
+
+  - A judgment is an attitude that a person takes towards expressions.
+    When we come to know something, we are making a judgment.
+
+    - Thanks, Per Martin-L6f (1942-).
+```
 
 # Reminder
 
