@@ -83,3 +83,12 @@ Another one, from "The Little Typer":
   - In some languages (such as Pie), values are also expressions.
     Evaluation such languages finds an expression,
     not some other kind of thing.
+
+## Multiple Reminder Entries
+
+- [reminder] Before type theory
+
+  - In programming, we do *not* write types, we only write terms.
+
+  - In logic, we do *not* write terms, we only write types
+    -- propositions and their inference rules.
