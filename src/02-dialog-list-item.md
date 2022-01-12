@@ -67,7 +67,8 @@ Multiple dialogs in the same document will share the same indexing.
 
   - What is the point of a judgment?
 
-  - A judgment is an attitude that a person takes towards expressions.
+  - A judgment is an attitude
+    that a person takes towards expressions.
     When we come to know something, we are making a judgment.
 
     - Thanks, Per Martin-Löf (1942-).
