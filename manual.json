@@ -4,6 +4,7 @@
   "authors": ["Xie Yuheng"],
   "date": "2021",
   "src": "src",
+  "main": "00.1-introduction.md",
   "sections": [
     "default",
     "Kinds of Projects",
