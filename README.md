@@ -1,5 +1,5 @@
-# Readonly.Link Cookbook
+# Readonly.Link Manual
 
-[ [READONLY](https://readonly.link/books/github.com/readonlylink/readonlylink-cookbook) ]
+[ [READONLY](https://readonly.link/manuals/github.com/readonlylink/readonlylink-manual) ]
 
-A cookbook for [Readonly.Link](https://readonly.link).
+The manual of [Readonly.Link](https://readonly.link).

@@ -1,4 +1,5 @@
 ---
+section: Code Block Extensions
 title: Katex Code Block
 ---
 
