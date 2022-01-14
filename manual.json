@@ -7,7 +7,7 @@
   "main": "00.1-introduction.md",
   "sections": [
     "default",
-    "Kinds of Projects",
+    "Kinds of Renders",
     "Kinds of Pages",
     "Code Block Extensions",
     "List Item Extensions"

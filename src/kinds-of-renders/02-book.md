@@ -1,5 +1,5 @@
 ---
-section: Kinds of Projects
+section: Kinds of Renders
 title: Book
 ---
 

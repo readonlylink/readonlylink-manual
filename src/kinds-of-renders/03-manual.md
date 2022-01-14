@@ -1,5 +1,5 @@
 ---
-section: Kinds of Projects
+section: Kinds of Renders
 title: Manual
 ---
 
@@ -16,7 +16,7 @@ Example `manual.json`:
   "src": "src",
   "sections": [
     "default",
-    "Kinds of Projects",
+    "Kinds of Renders",
     "Kinds of Pages",
     "Code Block Extensions",
     "List Item Extensions"
