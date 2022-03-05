@@ -3,7 +3,20 @@ section: Kinds of Renders
 title: Manual
 ---
 
-We render `Manual` using [readonly.link/manuals](https://readonly.link/manuals).
+A repository of Markdown files, and a manual.json config file, can be viewed as a manual.
+
+## URL Format
+
+```plaintext
+readonly.link/manuals/:host/:repo
+```
+
+Example URLs:
+
+- [readonly.link/manuals/gitlab.com/cicada-lang/cicada](https://readonly.link/manuals/gitlab.com/cicada-lang/cicada)
+- [readonly.link/manuals/github.com/readonlylink/readonlylink-manual](https://readonly.link/manuals/github.com/readonlylink/readonlylink-manual)
+
+## Manual Config
 
 Example `manual.json`:
 

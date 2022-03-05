@@ -3,9 +3,20 @@ section: Kinds of Renders
 title: Article
 ---
 
-We render `Article` using [readonly.link/articles](https://readonly.link/articles).
+A Markdown file can be viewed as a single article.
 
-Just a link to a Markdown file.
+## URL Format
+
+```plaintext
+readonly.link/articles/{host}/{username}/{project}/-/{path}
+```
+
+Example URLs:
+
+- [readonly.link/articles/github.com/xieyuheng/postmark/-/README.md](https://readonly.link/articles/github.com/xieyuheng/postmark/-/README.md)
+- [readonly.link/articles/github.com/cicada-lang/cicada/-/README.md](https://readonly.link/articles/github.com/cicada-lang/cicada/-/README.md)
+
+## Article Attributes
 
 We can set attributes of a Markdown file at the front of the file,
 like the following.
