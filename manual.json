@@ -5,11 +5,21 @@
   "date": "2022",
   "src": "src",
   "main": "00.1-introduction.md",
-  "sections": [
-    "default",
-    "Kinds of Renders",
-    "Kinds of Pages",
-    "Code Block Extensions",
-    "List Item Extensions"
-  ]
+  "sections": {
+    "default": ["00.1-introduction.md"],
+    "Kinds of Renders": [
+      "kinds-of-renders/01-article.md",
+      "kinds-of-renders/02-book.md",
+      "kinds-of-renders/03-manual.md"
+    ],
+    "Kinds of Pages": [
+      "kinds-of-pages/01-default-page.md",
+      "kinds-of-pages/02-dedication-page.md"
+    ],
+    "Code Block Extensions": ["code-block-extensions/01-katex-code-block.md"],
+    "List Item Extensions": [
+      "list-item-extensions/01-dialog-list-item.md",
+      "list-item-extensions/02-poem-vertical-item.md"
+    ]
+  }
 }

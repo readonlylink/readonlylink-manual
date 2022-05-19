@@ -1,0 +1,3 @@
+- be explicit about page order
+- drop section attribute
+- drop order prefix from file name
