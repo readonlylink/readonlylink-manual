@@ -1,5 +1,4 @@
 ---
-section: List Item Extensions
 title: Dialog List Item
 subtitle: Dan's Little Books style dialog
 ---

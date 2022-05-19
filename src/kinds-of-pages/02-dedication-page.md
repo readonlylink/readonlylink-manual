@@ -1,5 +1,4 @@
 ---
-section: Kinds of Pages
 title: Dedication Page
 ---
 

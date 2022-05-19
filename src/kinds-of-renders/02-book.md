@@ -1,5 +1,4 @@
 ---
-section: Kinds of Renders
 title: Book
 ---
 
